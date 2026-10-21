@@ -8,6 +8,9 @@
 little-prince-konbini-night.miora
 little-prince-konbini-night_assets/
 
+# 参赛材料（内部工作稿，不进公开仓库）
+SUBMISSION.md
+
 # 临时文件
 *.log
 .tmp-*
