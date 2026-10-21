@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# 工作区内部数据
+.workbuddy/
+
+# 早期 2D 概念稿（非本次交付物）
+little-prince-konbini-night.miora
+little-prince-konbini-night_assets/
+
+# 临时文件
+*.log
+.tmp-*
+node_modules/
