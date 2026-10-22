@@ -12,9 +12,11 @@
 
 ## 本地运行
 
-纯静态，无构建步骤、无依赖安装：
+克隆下来，纯静态，无构建步骤、无依赖安装：
 
 ```bash
+git clone https://github.com/felix6328/little-prince-3d-world.git
+cd little-prince-3d-world
 python3 -m http.server 5173
 ```
 
